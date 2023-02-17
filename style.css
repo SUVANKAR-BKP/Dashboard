@@ -1,0 +1,19 @@
+body{
+    background-color: #08081c;
+    color: aliceblue;
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-areas: '. myArea myArea' ;
+}
+
+
+.sidebar{
+    display: grid;
+    background-color: #131329;
+}
+.logo{
+    
+}
+.content{
+
+}
